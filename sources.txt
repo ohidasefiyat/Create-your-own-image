@@ -1,0 +1,6 @@
+Material Sources:
+
+1. All videos from tutor was used
+2. https://colab.research.google.com/github/Abhimanyu100/Image-Classifier-Project-Deep-Learning-/blob/master/Image_Classifier.ipynb#scrollTo=Ll-UEM31ezCO
+3. https://pytorch.org/docs/0.3.0/torchvision/index.html
+4. https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/
